@@ -1,0 +1,3 @@
+bv_test_homepage:
+    path:     /default/index
+    defaults: { _controller: BvTestBundle:Default:index }

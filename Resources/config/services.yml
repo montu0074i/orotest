@@ -1,0 +1,9 @@
+services:
+#    bv_test.example:
+#        class: BvTestBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
+
+
+     finderService:
+        class: BvTestBundle\Controller\FinderServiceController
+        arguments: ['@service_container']
