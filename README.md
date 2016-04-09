@@ -15,9 +15,9 @@ Installation Steps
 
 3) open yourproject/app/config/routing.yml, put below code in that file.
 
-   bv_test:
-   resource: "@BvTestBundle/Resources/config/routing.yml"
-   prefix:   /
+   	bv_test:
+   	resource: "@BvTestBundle/Resources/config/routing.yml"
+   	prefix:   /
 
 open your browser and type
 
