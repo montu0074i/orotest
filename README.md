@@ -19,9 +19,9 @@ Installation Steps
    	resource: "@BvTestBundle/Resources/config/routing.yml"
    	prefix:   /
 
-open your browser and type
+4) open your browser and type
 
-  http://localhost/YOUR-PROJECT-NAME/web/app_dev.php/default/index
+  	http://localhost/YOUR-PROJECT-NAME/web/app_dev.php/default/index
   
   Now you can search the keywords from the list of files which are present in the "uploads/files" folder.
   
